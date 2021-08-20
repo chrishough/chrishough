@@ -1,6 +1,7 @@
 ![biography](https://github.com/chrishough/chrishough/blob/main/assets/biography.gif)
       
 <!--
+
 How did I make this video?
 
 1. I made my video with https://codesandbox.io/s/github-profile-forked-6bbqx
@@ -9,6 +10,7 @@ How did I make this video?
 4. brew install gifsicle
 5. ffmpeg -i biography.mov -vf "fps=10,scale=840:-1:flags=lanczos,split[s0][s1];[s0]palettegen[p];[s1][p]paletteuse" -loop 0 biography.gif
 
+More great examples can be found here: https://github.com/abhisheknaiidu/awesome-github-profile-readme
 -->
 
 
