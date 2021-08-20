@@ -1,4 +1,5 @@
-![biography](https://github.com/chrishough/chrishough/blob/master/assets/biography.gif)
+![biography](https://github.com/chrishough/chrishough/blob/main/assets/biography.gif)
+      
 <!--
 How did I make this video?
 
