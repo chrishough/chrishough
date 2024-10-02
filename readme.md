@@ -1,4 +1,4 @@
-![biography](https://github.com/chrishough/chrishough/blob/main/assets/20241001.gif)
+![biography](https://github.com/chrishough/chrishough/blob/main/assets/20241002.gif)
 
 
 
