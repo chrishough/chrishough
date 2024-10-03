@@ -8,11 +8,16 @@
 
 :arrow_right: Let’s connect on LinkedIn!  
 [http://connect.aboutchrishough.com](http://connect.aboutchrishough.com)  
+
 :arrow_right: Blogging on Instagram!  
 [http://blog.aboutchrishough.com](http://blog.aboutchrishough.com)  
+
 :arrow_right: Thoughts on X!  
 [http://thoughts.aboutchrishough.com](http://thoughts.aboutchrishough.com)  
+
 :arrow_right: My Side Hustle!   
 [http://sidehustle.aboutchrishough.com](http://sidehustle.aboutchrishough.com)  
+
 :arrow_right: Check out ALL MY LINKS!  
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
+
