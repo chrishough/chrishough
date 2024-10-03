@@ -1,6 +1,6 @@
 ![Video About Me](https://github.com/chrishough/chrishough/blob/main/assets/20241002.gif)
 
-![Favorite Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+![Favorite Skills](https://skillicons.dev/icons?i=ruby,rails,postgres,redis&theme=dark)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
