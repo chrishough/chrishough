@@ -22,4 +22,6 @@
 :arrow_right: Check out ALL MY LINKS!  
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
 
+## :bar_chart: Statistics
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=chrishough)](https://git.io/streak-stats)
