@@ -22,7 +22,9 @@
 :arrow_right: Check out ALL MY LINKS!  
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
 
-## :bar_chart: Statistics
+***
 
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=chrishough&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+
+
