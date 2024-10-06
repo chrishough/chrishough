@@ -22,3 +22,4 @@
 :arrow_right: Check out ALL MY LINKS!  
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=chrishough)](https://git.io/streak-stats)
