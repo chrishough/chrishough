@@ -3,9 +3,9 @@
 <!-- https://github.com/LelouchFR/skill-icons -->
 [![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,js,sass,postgres,redis,heroku,aws,github,apple,rubymine,ps,rubocop,api,terminal&theme=dark)]()
 
-***
+## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
-### ounder & principal strategic engineering leader with expertise in APIs, architectural design, product development, software quality, and building and mentoring high-performing remote teams. Empathy and inclusivity are priorities to me, and I believe work environments should be an extension of our family. We should love where we grind and what we build. The ruby programming language is my paintbrush, and ruby on rails is my canvas.
+> Founder & principal strategic engineering leader with expertise in APIs, architectural design, product development, software quality, and building and mentoring high-performing remote teams. Empathy and inclusivity are priorities to me, and I believe work environments should be an extension of our family. We should love where we grind and what we build. The ruby programming language is my paintbrush, and ruby on rails is my canvas.
 
 :arrow_right: Let’s connect on LinkedIn!  
 [http://connect.aboutchrishough.com](http://connect.aboutchrishough.com)  
