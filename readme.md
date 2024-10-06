@@ -1,7 +1,7 @@
-![Video About Me](https://github.com/chrishough/chrishough/blob/main/assets/20241002.gif)
+[Video About Me](https://github.com/chrishough/chrishough/blob/main/assets/20241002.gif)
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,js,sass,postgres,redis,heroku,aws,github,apple,rubymine,ps,rubocop,api,terminal&theme=dark)
+[Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,js,sass,postgres,redis,heroku,aws,github,apple,rubymine,ps,rubocop,api,terminal&theme=dark)
 
 ## :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
@@ -22,3 +22,5 @@
 :arrow_right: Check out ALL MY LINKS!  
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
 
+
+[Top Langs](https://github-readme-stats-tau-tan-76.vercel.app/api/top-langs/?username=chrishough\&layout=pie)
