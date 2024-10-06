@@ -23,8 +23,4 @@
 [http://links.aboutchrishough.com](http://links.aboutchrishough.com)  
 
 
-![Statistics](https://github-readme-stats-tau-tan-76.vercel.app/api/top-langs?username=chrishough\&layout=pie)
-
-![Statistics](https://github-readme-stats-tau-tan-76.vercel.app/api/wakatime?username=username=chrishough)
-
-![Statistics](https://github-readme-stats-tau-tan-76.vercel.app/api/top-langs/?username=chrishough\&hide_progress=true)
+![Statistics](https://github-readme-stats-tau-tan-76.vercel.app/api/wakatime?username=chrishough)
