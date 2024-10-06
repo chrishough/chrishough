@@ -27,4 +27,4 @@
 <!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=chrishough&ring=EB5454&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
 
-
+![GitHub Statistics](https://raw.githubusercontent.com/chrishough/github-stats/master/generated/languages.svg#gh-light-mode-only)
