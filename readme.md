@@ -1,7 +1,7 @@
 [![Video About Me](https://github.com/chrishough/chrishough/blob/main/assets/20241002.gif)]()
 
 <!-- https://github.com/LelouchFR/skill-icons -->
-[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,cursor,claude,chatgpt,js,sass,postgres,redis,heroku,aws,github,apple,ps,api,terminal&theme=dark)]()
+[![Favorite Skills](https://go-skill-icons.vercel.app/api/icons?i=ruby,rails,cursor,claude,chatgpt,js,sass,postgres,redis,heroku,aws,github,apple,ps,api&theme=dark)]()
 
 ### :book: 𝙰𝚋𝚘𝚞𝚝 𝙼𝚎
 
