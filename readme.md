@@ -19,7 +19,7 @@ Let’s craft something that outlives us—together, and enjoy the thrill while 
 [http://connect.aboutchrishough.com](http://connect.aboutchrishough.com)  
 
 :arrow_right: Blogging on Instagram!  
-[http://blog.aboutchrishough.com](http://blog.aboutchrishough.com)  
+[http://writing.aboutchrishough.com](http://writing.aboutchrishough.com)
 
 :arrow_right: Thoughts on X!  
 [http://thoughts.aboutchrishough.com](http://thoughts.aboutchrishough.com)  
